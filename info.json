@@ -1,0 +1,11 @@
+{
+  "name": "mini-boat",
+  "version": "0.1.2",
+  "title": "Mini Boat",
+  "author": "NickIBrody",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0"
+  ],
+  "description": "A small fuel-powered boat. Can only be placed on and driven over water. Burns chemical fuels (coal, wood, solid fuel) and nuclear fuel."
+}

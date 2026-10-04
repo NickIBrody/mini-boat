@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 2026-10-04
+  Changes:
+    - Removed the fuel mention from item and entity descriptions.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2026-10-04
+  Bugfixes:
+    - Boat could not be placed on water: collision mask still carried the "player" layer that water tiles block.
+  Changes:
+    - Author set to NickIBrody.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-10-04
+  Features:
+    - Initial release: fuel-powered boat that only exists on water.
